@@ -26,8 +26,8 @@ bunch of forms). This will also give you some hands-on time with creating contro
 - Remember that in a controlled form, the state is the one keeping track of the inputs values
 
 ## Extension 1
-Store all submitted answers in state. Update `src/components/Survey.jsx` to display all the answers using the provided 
-`src/components/AnswerList.jsx` component. You will need to examine the provided components to understand the data 
+Store all submitted answers in state. Update `src/components/Survey.jsx` to display all the answers using the provided
+`src/components/AnswerList.jsx` component. You will need to examine the provided components to understand the data
 structure they expect and what props should be passed. Note that you can also modify these components to better suit the data structure you created in the first part of the exercise.
 
 ## Extension 2
